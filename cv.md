@@ -16,6 +16,7 @@ My name is Olga. I'm a brand-manager and junior frontend developer.
 - HTML
 - CSS
 - JS
+- Figma
 
 ## Look my code
 
