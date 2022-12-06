@@ -21,7 +21,10 @@ My name is Olga. I'm a brand-manager and junior frontend developer.
 ## Look my code
 
 ```
-console.log ('Hello World!');
+function greeting {
+  console.log ('Hello World!')
+};
+
 ```
 
 ## Education
